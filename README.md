@@ -36,5 +36,7 @@ Configurações de Perfil Financeiro:
 - Microsoft Excel (com fórmulas financeiras)
 - Formatação condicional para melhor visualização
 
+Imagem
+![Imagem Simulador](imagem_excel.png.png)
 
 
